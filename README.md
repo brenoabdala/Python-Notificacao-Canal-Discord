@@ -1,4 +1,4 @@
-<h2> Python Notificacao Canal Discord </h2> 
+<h2> Python notificação em canal do discord </h2> 
 
 <h4>Descrição</h4>
 <p>Notificar via webhook em canal especifico do discord.</p>
